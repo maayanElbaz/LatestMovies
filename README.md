@@ -5,7 +5,7 @@ This is an android application that shows Lists of movies, liked list and detail
 ## Features
 - Latest, Upcoming, Top Rated and Now Playing movies on TMDb.
 - View movie details like year, vote average  as a rating,image and description inside the app.
-- Liked Movies List
+- List of movies I liked
 
 
 
